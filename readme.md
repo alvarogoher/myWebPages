@@ -1,6 +1,6 @@
 ## Quiz game web App
 <ul>
-<li>Technologies: Node.js, HTML5, CSS 3, JSON, Ajax, Express</li>
+<li>Technologies: MVC pattern, Node.js, HTML5, CSS 3, JSON, Ajax, Express</li>
 <li>Deployed in Heroku</li>
 </ul>
 
